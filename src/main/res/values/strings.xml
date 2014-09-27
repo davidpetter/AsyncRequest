@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsyncRequest test</string>
+    <string name="sendRequest">Send request</string>
+    <string name="dummyResult">Dummy result</string>
+
+    <string name="error">Error: %s</string>
+    <string name="resultPlaceholder">Result placeholder</string>
+    <string name="not_found">Not found</string>
+    <string name="requesting">Sending request</string>
+    <string name="canceled">Canceled</string>
+</resources>

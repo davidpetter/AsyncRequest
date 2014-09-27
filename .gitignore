@@ -1,0 +1,45 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Sensitive
+*.keystore
+*.swp
+*.orig
+*.log
+*.iml
+.settings
+.classpath
+.project
+.idea/
+.cvsignore
+.DS_Store
+
+target
+seed.txt
+map.txt
+
+bin/
+gen/
+build/
+
+.gradle
+
+*local.properties
+*~
+*.changelog
+.ant-targets-build.xml
+
